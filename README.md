@@ -1,4 +1,4 @@
-## `arielherrera.github.io` soon to be `reigikai.com`
+## `reigikai.com`
 The hosting page for my karate dojos website  
-Stable deployment at https://arielherrera.github.io/#/  
+Stable deployment at https://reigikai.com
 Version 0.0.1
